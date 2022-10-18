@@ -1,4 +1,7 @@
-﻿
+﻿using System;
+using System.Linq;
+using System.Text;
+
 
 
 // // Задача 10 На входе трехзначное число, на выходе вторая цифра этого числа (рещение 1)
@@ -25,18 +28,31 @@
 
 // Задача 13 Вывод третьей цифры заданного числа
 
-Console.WriteLine("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите число: ");
+// int num = Convert.ToInt32(Console.ReadLine());
 
-if (num >= 100 && num < 1000)
+// if (num >= 100 && num < 1000)
+// {
+//     Console.Write(num % 10);
+// }
+// else if (num < 100)
+// {
+//     Console.Write("Третьей цифры в данном числе нет");
+// }
+// else 
+// {
+//     Console.Write("Число больше трехзначного");
+// }
+
+// // Задача 15 проверка номера дня
+
+Console.WriteLine("Введите номер дня недели: ");
+int num = Convert.ToInt32(Console.ReadLine());
+string mes;
+switch (num)
 {
-    Console.Write(num % 10);
+    case 6: mes = "Сегодня суббота, выходной день"; break;
+    case 7: mes = "Сегодня суббота, выходной день"; break;
+    default: mes = "Рабочий день"; break;
 }
-else if (num < 100)
-{
-    Console.Write("Третьей цифры в данном числе нет");
-}
-else 
-{
-    Console.Write("Число больше трехзначного");
-}
+Console.Write(mes);
