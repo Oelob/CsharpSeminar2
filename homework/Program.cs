@@ -28,31 +28,35 @@ using System.Text;
 
 // Задача 13 Вывод третьей цифры заданного числа
 
-// Console.WriteLine("Введите число: ");
-// int num = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите число: ");
+int num = Convert.ToInt32(Console.ReadLine());
 
-// if (num >= 100 && num < 1000)
-// {
-//     Console.Write(num % 10);
-// }
-// else if (num < 100)
-// {
-//     Console.Write("Третьей цифры в данном числе нет");
-// }
-// else 
-// {
-//     Console.Write("Число больше трехзначного");
-// }
+if (num >= 1000 )
+{
+    while (num >= 1000)
+    {
+        num = num / 10;
+    }
+    Console.Write(num % 10);
+}
+else if (num >= 100 && num < 1000)
+{
+    Console.Write(num % 10);
+}
+else 
+{
+     Console.Write("Третьей цифры в данном числе нет");
+}
 
 // // Задача 15 проверка номера дня
 
-Console.WriteLine("Введите номер дня недели: ");
-int num = Convert.ToInt32(Console.ReadLine());
-string mes;
-switch (num)
-{
-    case 6: mes = "Сегодня суббота, выходной день"; break;
-    case 7: mes = "Сегодня суббота, выходной день"; break;
-    default: mes = "Рабочий день"; break;
-}
-Console.Write(mes);
+// Console.WriteLine("Введите номер дня недели: ");
+// int num = Convert.ToInt32(Console.ReadLine());
+// string mes;
+// switch (num)
+// {
+//     case 6: mes = "Сегодня суббота, выходной день"; break;
+//     case 7: mes = "Сегодня суббота, выходной день"; break;
+//     default: mes = "Рабочий день"; break;
+// }
+// Console.Write(mes);
