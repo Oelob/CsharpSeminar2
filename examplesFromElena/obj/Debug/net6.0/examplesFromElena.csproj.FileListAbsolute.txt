@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\examplesFromElena.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\examplesFromElena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\examplesFromElena.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\examplesFromElena.AssemblyInfo.cs
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\examplesFromElena.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\bin\Debug\net6.0\examplesFromElena.exe
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\bin\Debug\net6.0\examplesFromElena.deps.json
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\bin\Debug\net6.0\examplesFromElena.runtimeconfig.json
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\bin\Debug\net6.0\examplesFromElena.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\bin\Debug\net6.0\examplesFromElena.pdb
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\examplesFromElena.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\refint\examplesFromElena.dll
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\examplesFromElena.pdb
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\examplesFromElena.genruntimeconfig.cache
+C:\Users\1\Desktop\иван\задания по разработчику\сишарп\seminar2\examplesFromElena\obj\Debug\net6.0\ref\examplesFromElena.dll
